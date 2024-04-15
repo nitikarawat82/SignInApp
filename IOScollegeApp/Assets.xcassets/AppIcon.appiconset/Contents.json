@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "download-compresskaru.com.png 18-03-48-303.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
